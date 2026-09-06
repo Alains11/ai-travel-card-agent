@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Local Data
+cards.json
+card.json
+
+# OS
+.DS_Store
+.vscode/

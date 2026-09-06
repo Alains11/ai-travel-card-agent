@@ -1,0 +1,29 @@
+Search backend package in use: ddgs
+updater.py version: v6-launchd-ready
+Fetching latest data from DuckDuckGo...
+Searching for: best travel credit cards welcome bonus annual fee
+  [backend=lite] returned 5 raw result(s)
+Found 5 results with query: best travel credit cards welcome bonus annual fee
+Scraping pages and extracting data via LLM...
+Scraping: https://www.nerdwallet.com/travel/learn/top-rewards-credit-card-offers
+Scraping: https://thepointsguy.com/credit-cards/limited-time-card-offers/
+Scraping: https://www.fool.com/money/credit-cards/articles/best-travel-card-welcome-bonuses-available-now-august-2026/
+Scraping: https://upgradedpoints.com/credit-cards/sign-up-bonuses/
+Scraping: https://wallethub.com/answers/cc/best-travel-credit-card-signup-bonus-2140685459/
+[2026-09-06 11:41:21.625673] /Users/alpierre/Downloads/Ai Agent/cards.json successfully updated with 5 card(s).
+Search backend package in use: ddgs
+updater.py version: v6-launchd-ready
+Fetching latest data from DuckDuckGo...
+Searching for: best travel credit cards welcome bonus annual fee
+  [backend=lite] returned 5 raw result(s)
+Found 5 results with query: best travel credit cards welcome bonus annual fee
+Scraping pages and extracting data via LLM...
+Scraping: https://www.nerdwallet.com/travel/learn/top-rewards-credit-card-offers
+Scraping: https://thepointsguy.com/credit-cards/limited-time-card-offers/
+Scraping: https://www.fool.com/money/credit-cards/articles/best-travel-card-welcome-bonuses-available-now-august-2026/
+Scraping: https://upgradedpoints.com/credit-cards/sign-up-bonuses/
+Scraping: https://wallethub.com/answers/cc/best-travel-credit-card-signup-bonus-2140685459/
+[2026-09-06 11:42:13.507082] /Users/alpierre/Downloads/Ai Agent/cards.json successfully updated with 5 card(s).
+Search backend package in use: ddgs
+updater.py version: v7-catchup-if-stale
+Data is still fresh - skipping this run.
