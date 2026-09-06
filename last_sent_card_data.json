@@ -1,0 +1,38 @@
+[
+  {
+    "card_name": "Delta SkyMiles\u00ae Gold American Express Card",
+    "welcome_bonus": "As High As 80,000 Bonus Miles + Earn a $250 Statement Credit after you spend $3,000 in purchases on your new Card within the first 6 months of Card Membership",
+    "annual_fee": "$0 intro for the first year, then $150",
+    "last_updated": "2026-09-06",
+    "snippet": "There are a number of travel rewards credit cards that should be on your radar this month. Here's a look at some of the top card offers right now.",
+    "url": "https://www.nerdwallet.com/travel/learn/top-rewards-credit-card-offers",
+    "source": "Web Scraping + LLM"
+  },
+  {
+    "card_name": "American Express Platinum Card\u00ae",
+    "welcome_bonus": "As high as 175,000 Membership Rewards\u00ae Points after spending $12,000 in eligible purchases in the first 6 months",
+    "annual_fee": "$895",
+    "last_updated": "2026-09-06",
+    "snippet": "These top travel cards all have strong welcome bonuses in August 2026. See which one fits your spending and lifestyle today.",
+    "url": "https://www.fool.com/money/credit-cards/articles/best-travel-card-welcome-bonuses-available-now-august-2026/",
+    "source": "Web Scraping + LLM"
+  },
+  {
+    "card_name": "Platinum Card\u00ae from American Express",
+    "welcome_bonus": "Up to 175,000 points",
+    "annual_fee": "$895",
+    "last_updated": "2026-09-06",
+    "snippet": "Which credit card sign up bonuses are best? Our guide ranks the best card bonus offers so you can snag the top deals.",
+    "url": "https://upgradedpoints.com/credit-cards/sign-up-bonuses/",
+    "source": "Web Scraping + LLM"
+  },
+  {
+    "card_name": "Capital One Venture Rewards Credit Card",
+    "welcome_bonus": "75,000 miles for spending $4,000 on purchases in the first 3 months",
+    "annual_fee": "$95",
+    "last_updated": "2026-09-06",
+    "snippet": "The best travel credit card bonus is 75,000 miles for spending $4,000 on purchases in the first 3 months, offered by the Capital One Venture Rewards Credit Card. The bonus is worth $750 in travel, and the card also gives 2 - 5 miles per $1 spent on purchases. Capital One Venture has a $95 annual fee, which the initial bonus can cover for multiple years. And, like the rest of the best travel ...",
+    "url": "https://wallethub.com/answers/cc/best-travel-credit-card-signup-bonus-2140685459/",
+    "source": "Web Scraping + LLM"
+  }
+]
