@@ -27,3 +27,6 @@ Scraping: https://wallethub.com/answers/cc/best-travel-credit-card-signup-bonus-
 Search backend package in use: ddgs
 updater.py version: v7-catchup-if-stale
 Data is still fresh - skipping this run.
+Search backend package in use: ddgs
+updater.py version: v7-catchup-if-stale
+Data is still fresh - skipping this run.

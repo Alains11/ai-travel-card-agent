@@ -153,20 +153,25 @@ def run_agent(model_name: str = "gemma4:31b-cloud", debug: bool = True, origin: 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Travel Card Valuation Agent")
-    parser.add_argument("--origin", type=str, default="JFK", help="Origin airport code")
-    parser.add_argument("--destination", type=str, default="LHR", help="Destination airport code")
-    parser.add_argument("--date", type=str, default="2026-12-01", help="Departure date (YYYY-MM-DD)")
+    parser.add_argument("--origin", type=str, help="Origin airport code")
+    parser.add_argument("--destination", type=str, help="Destination airport code")
+    parser.add_argument("--date", type=str, help="Departure date (YYYY-MM-DD)")
     parser.add_argument("--model", type=str, default="gemma4:31b-cloud", help="Ollama model name")
     parser.add_argument("--debug", action="store_true", help="Enable debug mode")
 
     args = parser.parse_args()
     
+    # If arguments are missing, prompt the user interactively
+    origin = args.origin or input("Enter origin airport code (e.g., JFK) [JFK]: ") or "JFK"
+    destination = args.destination or input("Enter destination airport code (e.g., LHR) [LHR]: ") or "LHR"
+    date = args.date or input("Enter departure date (YYYY-MM-DD, e.g., 2026-12-01) [2026-12-01]: ") or "2026-12-01"
+
     result = run_agent(
         model_name=args.model,
         debug=args.debug,
-        origin=args.origin,
-        destination=args.destination,
-        date=args.date
+        origin=origin,
+        destination=destination,
+        date=date
     )
     print(result)
 
