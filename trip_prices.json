@@ -1,0 +1,94 @@
+{
+  "trip": {
+    "start": "2027-09-01",
+    "end": "2027-09-22",
+    "home_airport": "BOS"
+  },
+  "snapshots": [
+    {
+      "run_timestamp": "2026-09-06T12:15:00.832985",
+      "prices": [
+        {
+          "leg": "Flight to Vietnam",
+          "price_estimate": "$420 one-way / $947 round-trip",
+          "note": "Prices based on the cheapest fares seen for flights from Boston to Hanoi.",
+          "url": "https://www.skyscanner.com/routes/bos/han/boston-logan-international-to-hanoi.html",
+          "snapshot_date": "2026-09-06"
+        },
+        {
+          "leg": "Flight Vietnam to Cambodia",
+          "price_estimate": "$239-278 round trip",
+          "note": "Typical round-trip prices range from $239 to $278, with some recently found as low as $193.",
+          "url": "https://www.momondo.com/flights/ho-chi-minh-city/siem-reap",
+          "snapshot_date": "2026-09-06"
+        },
+        {
+          "leg": "Hotels - Hanoi",
+          "price_estimate": "$16-57/night",
+          "note": "Prices range from an average of $16 for budget hotels to $57 for luxury hotels.",
+          "url": "https://www.budgetyourtrip.com/hotels/vietnam/hanoi-1581130",
+          "snapshot_date": "2026-09-06"
+        },
+        {
+          "leg": "Hotels - Ho Chi Minh City",
+          "price_estimate": "$12-280+/night",
+          "note": "Average hotel rate is $50/night, ranging from budget ($12-30) to luxury ($90-280+).",
+          "url": "https://www.hotelpricewatch.com/city/ho-chi-minh-city/",
+          "snapshot_date": "2026-09-06"
+        }
+      ]
+    },
+    {
+      "run_timestamp": "2026-09-06T12:18:47.022281",
+      "prices": [
+        {
+          "leg": "Flight to Vietnam",
+          "price_estimate": "$420 one-way / $947+ roundtrip",
+          "note": "Prices vary by city, with roundtrip flights to Hanoi starting at $947.",
+          "url": "https://www.skyscanner.com/routes/bosa/vn/boston-to-vietnam.html",
+          "snapshot_date": "2026-09-06"
+        },
+        {
+          "leg": "Hotels - Hanoi",
+          "price_estimate": "$28/night",
+          "note": "Average hotel price based on 3,515 hotels, with budget options at $16 and luxury at $57.",
+          "url": "https://www.budgetyourtrip.com/hotels/vietnam/hanoi-1581130",
+          "snapshot_date": "2026-09-06"
+        },
+        {
+          "leg": "Hotels - Siem Reap",
+          "price_estimate": "Unknown",
+          "note": "The content describes mid-range hotels but does not list specific nightly rates.",
+          "url": "https://mapnhat.com/blog/cambodia/siem-reap/hotel",
+          "snapshot_date": "2026-09-06"
+        }
+      ]
+    },
+    {
+      "run_timestamp": "2026-09-06T12:25:34.855252",
+      "prices": [
+        {
+          "leg": "Flight to Vietnam",
+          "price_estimate": "$473+ one-way, $942+ round trip",
+          "note": "Prices based on recent flight deals from Boston to Hanoi.",
+          "url": "https://www.kayak.com/flight-routes/Boston-Logan-Intl-BOS/Hanoi-Noibai-HAN",
+          "snapshot_date": "2026-09-06"
+        },
+        {
+          "leg": "Flight Vietnam to Cambodia",
+          "price_estimate": "$239-278 round trip",
+          "note": "Typical prices range from $239 to $278, with some recent finds as low as $193.",
+          "url": "https://www.momondo.com/flights/ho-chi-minh-city/siem-reap",
+          "snapshot_date": "2026-09-06"
+        },
+        {
+          "leg": "Hotels - Hanoi",
+          "price_estimate": "$28/night",
+          "note": "Average price based on 3,515 hotels, with budget hotels averaging $16 and luxury hotels averaging $57.",
+          "url": "https://www.budgetyourtrip.com/hotels/vietnam/hanoi-1581130",
+          "snapshot_date": "2026-09-06"
+        }
+      ]
+    }
+  ]
+}
